@@ -1,6 +1,6 @@
 package model.services;
 
-public class BrazilTaxService {
+public class BrazilTaxService implements TaxService{
 
     //Classe responsavel por calcular o imposto (No Brasil, por exemplo)
 
